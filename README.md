@@ -1,4 +1,5 @@
 # Emails-Tower-Defense-5
+<p>WELCOME TO A GAME MY GROUP CREATED TOGETHER
 <img src="https://github.com/JL12345/Emails-Tower-Defense-5/blob/master/Ninja%20Mangos/Ninja%20Mangos/Snips%20for%20Algor/title.PNG">
 <img src="https://github.com/JL12345/Emails-Tower-Defense-5/blob/master/Ninja%20Mangos/Ninja%20Mangos/Snips%20for%20Algor/intro.PNG">
 <img src="https://github.com/JL12345/Emails-Tower-Defense-5/blob/master/Ninja%20Mangos/Ninja%20Mangos/Snips%20for%20Algor/Snip%234.PNG">
